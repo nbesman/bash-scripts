@@ -1,6 +1,5 @@
 #! /bin/bash
 
-#! /bin/bash
 SIDE_ARROW():{
 num=5
 row=1
